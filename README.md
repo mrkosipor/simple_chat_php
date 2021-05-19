@@ -1,2 +1,2 @@
-# simple_chat_php_
+# simple_chat_php
 php mysql ajax
